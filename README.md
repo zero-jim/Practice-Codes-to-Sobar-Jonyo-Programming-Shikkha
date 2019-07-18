@@ -1,2 +1,3 @@
 # Practice-Codes-to-Sobar-Jonyo-Programming-Shikkha
-The given folder name holds the given code
+This repository has the solution to problems from the books of:
+-Sobar Jonyo Programming Sikkha
